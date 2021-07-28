@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 85ec5d38c765547eeaa532acd0392e90\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-01 12:20+0000\n"
-"PO-Revision-Date: 2021-07-27 15:40\n"
+"PO-Revision-Date: 2021-07-28 15:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -57,7 +57,7 @@ msgstr ""
 #. module: account
 #: model:mail.template,subject:account.email_template_edi_invoice
 msgid "${object.company_id.name} Invoice (Ref ${object.name or 'n/a'})"
-msgstr "${object.company_id.name} Facture (Ref ${object.name or 'n/a'})"
+msgstr "${object.company_id.ame} Facture (Ref ${object.name or 'n/a'})"
 
 #. module: account
 #: model:mail.template,subject:account.mail_template_data_payment_receipt
@@ -5851,7 +5851,7 @@ msgstr "Janvier"
 #: model_terms:ir.ui.view,arch_db:account.view_bank_statement_search
 #, python-format
 msgid "Journal"
-msgstr ""
+msgstr "Journau"
 
 #. module: account
 #. openerp-web
@@ -11688,7 +11688,7 @@ msgstr "Vous ne pouvez pas supprimer une pièce qui est comptabilisée."
 #: code:addons/account/models/account_move.py:0
 #, python-format
 msgid "You cannot delete an item linked to a posted entry."
-msgstr "Vous ne pouvez pas supprimer un élément lié à une entrée publiée."
+msgstr "Vous ne pouvez pas supprimer un élément lié à une entrée publiée 222222222222222222222222222222222."
 
 #. module: account
 #: code:addons/account/models/res_config_settings.py:0
