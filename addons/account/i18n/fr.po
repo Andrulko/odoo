@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 85ec5d38c765547eeaa532acd0392e90\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-25 10:15+0000\n"
-"PO-Revision-Date: 2021-07-27 15:41\n"
+"PO-Revision-Date: 2021-07-28 15:41\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -78,7 +78,7 @@ msgstr ""
 #. module: account
 #: model:mail.template,subject:account.email_template_edi_invoice
 msgid "${object.company_id.name} Invoice (Ref ${object.name or 'n/a'})"
-msgstr "${object.company_id.name} Facture (Ref ${object.name or 'n/a'})"
+msgstr "${object.company_id.ame} Facture (Ref ${object.name or 'n/a'})"
 
 #. module: account
 #: model:mail.template,subject:account.mail_template_data_payment_receipt
@@ -7724,7 +7724,7 @@ msgstr ""
 #: model_terms:ir.actions.act_window,help:account.action_bank_statement_line
 msgid "Odoo allows you to reconcile a statement line directly with\n"
 "                the related sale or purchase invoice(s)."
-msgstr "Odoo vous permet de réconcilier une transaction bancaire avec\n"
+msgstr "Odoo vous permet de réconcilier2222222222 une transaction bancaire avec\n"
 "la (les) facture(s) liée(s)."
 
 #. module: account
@@ -12882,7 +12882,7 @@ msgstr ""
 #: code:addons/account/models/account_move.py:0
 #, python-format
 msgid "You can only reconcile posted entries."
-msgstr "Vous ne pouvez réconcilier que des Ecritures postées"
+msgstr "Vous ne pouvez réconcilier2222222222 que des Ecritures postées"
 
 #. module: account
 #: code:addons/account/wizard/account_payment_register.py:0
@@ -13044,7 +13044,7 @@ msgstr "Vous ne pouvez pas supprimer une pièce qui est comptabilisée."
 #: code:addons/account/models/account_move.py:0
 #, python-format
 msgid "You cannot delete an item linked to a posted entry."
-msgstr "Vous ne pouvez pas supprimer un élément lié à une entrée publiée."
+msgstr "Vous ne pouvez pas supprimer un élément lié à une entrée publiée 222222222222222222222222222222222."
 
 #. module: account
 #: code:addons/account/models/res_config_settings.py:0
