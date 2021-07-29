@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 85ec5d38c765547eeaa532acd0392e90\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-25 10:15+0000\n"
-"PO-Revision-Date: 2021-07-27 15:41\n"
+"PO-Revision-Date: 2021-07-29 15:49\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-Project: 85ec5d38c765547eeaa532acd0392e90\n"
 "X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: de\n"
-"X-Crowdin-File: /14.0/addons/account/i18n/account.pot\n"
+"X-Crowdin-File: /[Andrulko.odoo] 14.0/addons/account/i18n/account.pot\n"
 "X-Crowdin-File-ID: 19\n"
 "Language: de_DE\n"
 
@@ -733,7 +733,7 @@ msgstr "<strong>Rechnungsdatum:</strong>"
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.report_journal
 msgid "<strong>Journal:</strong>"
-msgstr ""
+msgstr "<strong>Journal :</strong>"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.report_payment_receipt_document
